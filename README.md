@@ -1,2 +1,2 @@
-# Free vpns
-Enjoy :)
+# Free VPNs for linux
+Enjoy them :)
